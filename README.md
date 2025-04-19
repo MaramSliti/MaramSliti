@@ -8,7 +8,7 @@
 
 ### 🪄 About Me
 
-Hi! I'm Maram, a curious and creative data science student from Tunisia 🇹🇳.  
+Hi! I'm Maram, a curious and creative Data Science Engineering student from Tunisia 🇹🇳.  
 I’m passionate about using technology to make meaningful impact — especially in healthcare.
 
 Currently, I’m working on **PulmoScan**, a deep learning-based project to detect lung nodules from CT scans. Research, data, and a touch of creativity — that’s my zone. 🤍
