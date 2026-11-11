@@ -19,6 +19,7 @@ I build practical software and AI solutions across machine learning, computer vi
 | **Customer Churn Prediction & MLOps** | Churn prediction pipeline with MLflow, APIs, Docker, Jenkins and monitoring. | [Collaborative repository](https://github.com/MeriemMojaat/mlops) |
 | **METIS – AI Candidate Screening Agent** | Collaborative AI-assisted candidate screening project. This is the METIS project. | [Team repository](https://github.com/yosrcharrada/screening-agent) |
 | **EY AI Proposal & CV Generator** | Consulting document analysis and generation using React, FastAPI, Ollama, Llama 3 and Mistral. | Internship project; source not public |
+| **VERMEG – Jira Knowledge Assistant** | Python/Streamlit RAG assistant using LLMs and Qdrant to retrieve contextual information from Jira project data; automated Jira-ticket ingestion and Power BI monitoring dashboards. | Professional internship project; source private / pending upload |
 | **PulmoScan – AI-Based Lung Nodule Detection** | Team deep-learning system for chest CT nodule detection and classification. | [Data Wizards team repository](https://github.com/MeriemMojaat/Pulmoscan) |
 | **EmotionAI – Voice-Based Emotion Recognition** | Speech emotion recognition and generative augmentation using ResNet/CNN, RAVDESS, EmoDB, VAE and diffusion models. | [Team repository](https://github.com/MeriemMojaat/Speech-Emotion-Recognition-SER-) |
 | **ChurnPredict** | Predictive customer churn classification. | See collaborative [MLOps repository](https://github.com/MeriemMojaat/mlops) |
