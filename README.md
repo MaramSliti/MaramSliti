@@ -19,8 +19,8 @@ I build practical software and AI solutions across machine learning, computer vi
 | **Customer Churn Prediction & MLOps** | Churn prediction pipeline with MLflow, APIs, Docker, Jenkins and monitoring. | [Collaborative repository](https://github.com/MeriemMojaat/mlops) |
 | **METIS – AI Candidate Screening Agent** | Collaborative AI-assisted candidate screening project. This is the METIS project. | [Team repository](https://github.com/yosrcharrada/screening-agent) |
 | **EY AI Proposal & CV Generator** | Consulting document analysis and generation using React, FastAPI, Ollama, Llama 3 and Mistral. | Internship project; source not public |
-| **PulmoScan** | Deep-learning project for lung-imaging analysis and nodule detection. | Source link to be added |
-| **EmotionAI** | Computer-vision project for facial-expression and emotion classification. | Source link to be added |
+| **PulmoScan – AI-Based Lung Nodule Detection** | Team deep-learning system for chest CT nodule detection and classification. | [Data Wizards team repository](https://github.com/MeriemMojaat/Pulmoscan) |
+| **EmotionAI – Voice-Based Emotion Recognition** | Deep-learning pipeline for real-time voice emotion recognition using CNN and ResNet models, with EmoDB and RAVDESS datasets. | Source link to be added |
 | **ChurnPredict** | Predictive customer churn classification. | See collaborative [MLOps repository](https://github.com/MeriemMojaat/mlops) |
 | **Brain Tumor Classification** | CNN-based classification of brain-tumor images. | Source link to be added |
 | **Agricultural Forecasting** | Time-series analysis and forecasting with ARIMA / SARIMA. | Source link to be added |
