@@ -1,30 +1,27 @@
 # Statistical Analysis of Gas Turbine Emissions
 
-Collaborative academic statistics project analyzing gas-turbine operational measurements and their relationship with carbon monoxide (CO) and nitrogen oxides (NOx) emissions.
+Collaborative academic R project analyzing annual gas-turbine measurements from 2011–2015 and their relationship with CO and NOx emissions.
 
-## Research question
-Which operating and environmental variables are associated with gas-turbine emissions, and how can statistical tests and regression help explain these relationships?
+## Dataset
+The original archive includes one CSV per year (2011–2015). The scripts prompt for these local CSV files; the raw source datasets are not bundled in this repository.
 
-## Data
-The original work combines annual gas-turbine datasets from 2011–2015. Variables include ambient temperature, ambient pressure, ambient humidity, air-filter differential pressure, exhaust pressure, turbine inlet/after temperatures, turbine energy yield, compressor discharge pressure, CO and NOx.
+## Methods
+- Combine five annual datasets and explore distributions and missing values.
+- Detect and treat outliers using boxplots/IQR-based rules.
+- Apply KNN imputation and min-max normalization.
+- Explore distributional assumptions and variance differences.
+- Apply hypothesis tests and multiple linear regression to emissions variables.
+- Inspect the 2015 dataset separately with regression diagnostics and ANOVA-style tests.
 
-The original archive also contains a separate AI4I predictive-maintenance CSV. It is a dataset only in this archive and is not treated here as a completed predictive-maintenance project.
+## Files
+- gas_turbine_analysis.R — cleaned end-to-end starter workflow already present in this folder.
+- gas_turbine_original_analysis.R — updated from the original multi-year R script supplied in stats.zip.
+- gas_turbine_2015_data_exploration.R — R exploration and regression script adapted from the 2015 work.
 
-## Methods documented in the report and R scripts
-- Data merging, exploratory analysis and summary statistics
-- Outlier inspection and treatment
-- KNN imputation and min-max normalization
-- Distribution and normality assessment
-- Variance and hypothesis testing
-- Correlation and bivariate analysis
-- Multiple linear regression and model refinement
-- Dimensionality-reduction exploration
+The archive also contained an AI4I predictive-maintenance CSV, but that file is a dataset only and is not described here as a completed predictive-maintenance project.
 
 ## Tools
-R, ggplot2, VIM, statistical testing and regression packages.
-
-## Repository contents
-This repository contains a cleaned project overview and a reproducible starter R workflow. Original team report, raw datasets and classroom materials are not redistributed here.
+R, ggplot2, VIM, car and base statistical modelling.
 
 ## Academic collaboration
-The supplied report credits a team of contributors. This repository documents the collaborative academic work and does not claim sole authorship of the original report.
+The original report credits multiple contributors. This repository documents collaborative academic work and does not claim sole authorship of the original report.
