@@ -23,10 +23,16 @@ I build practical software and AI solutions across machine learning, computer vi
 | **PulmoScan – AI-Based Lung Nodule Detection** | Team deep-learning system for chest CT nodule detection and classification. | [Data Wizards team repository](https://github.com/MeriemMojaat/Pulmoscan) |
 | **EmotionAI – Voice-Based Emotion Recognition** | Speech emotion recognition and generative augmentation using ResNet/CNN, RAVDESS, EmoDB, VAE and diffusion models. | [Team repository](https://github.com/MeriemMojaat/Speech-Emotion-Recognition-SER-) |
 | **ChurnPredict** | Predictive customer churn classification. | See collaborative [MLOps repository](https://github.com/MeriemMojaat/mlops) |
-| **Brain Tumor Classification** | CNN-based classification of brain-tumor image classes as part of a medical-imaging project. | Source link to be added |
-| **Agricultural Forecasting** | Agricultural data analysis and forecasting using ARIMA and SARIMA time-series methods. | Source link to be added |
+| **Brain Tumor Classification** | CNN and VGG16 binary image classification for Healthy vs Brain Tumor scans. | [Source and code](https://github.com/MaramSliti/MaramSliti/tree/main/Brain-Tumor-Classification) |
+| **Agricultural Forecasting** | Monthly US agricultural production time series with decomposition, stationarity testing and seasonal ARIMA forecasting. | [R script and dataset](https://github.com/MaramSliti/MaramSliti/tree/main/Agricultural-Forecasting) |
 | **Data Analysis with R** | Gas-distribution data analysis and Shiny dashboards with ggplot2. | Source link to be added |
 | **Data & File Management Application** | University software project focused on managing data and files, developed in a Linux and open-source workflow. | Source link to be added |
+| **Economic Time-Series Analysis** | R-based analysis of industrial production, construction job openings, wood exports and monthly retail sales with decomposition, ACF/PACF, differencing and ARIMA work. | [R notebooks exported as scripts](https://github.com/MaramSliti/MaramSliti/tree/main/Economic-Time-Series-Analysis) |
+| **Gas Turbine Emissions – Statistical Analysis** | Collaborative 2011–2015 analysis using outlier handling, KNN imputation, normalization, hypothesis tests and regression. | [R source files](https://github.com/MaramSliti/MaramSliti/tree/main/Gas-Turbine-Emissions-Statistical-Analysis) |
+| **R Statistical Analysis Exercises** | Max-ozone regression, backward variable selection, residual diagnostics and non-parametric tests. | [R source](https://github.com/MaramSliti/MaramSliti/tree/main/R-Statistical-Analysis-Exercises) |
+| **CIFAR-10 Model Optimization** | TensorFlow image-classification experiments using augmentation, dropout, batch normalization and learning-rate callbacks. | [Python source](https://github.com/MaramSliti/MaramSliti/tree/main/CIFAR-10-Model-Optimization) |
+| **Neo4j Graph Database Study** | Academic study of graph data modelling, Cypher, storage, indexes, transactions and clustering. | [Study notes](https://github.com/MaramSliti/MaramSliti/tree/main/Neo4j-Graph-Database-Study) |
+| **Property Rental and Appointment Management** | Java repository-layer sample for property listings and appointment CRUD operations. | [Java source](https://github.com/MaramSliti/MaramSliti/tree/main/Property-Rental-Appointment-Management-Java) |
 | **AI Agents Benchmark Board** | Frontend concept for comparing AI agents. | [benshmarkey](https://github.com/MaramSliti/benshmarkey) · private repository |
 
 Some work was completed in teams or internships. Team links lead to the original repositories; professional and private code is not presented as publicly accessible.
