@@ -17,7 +17,7 @@ I build practical software and AI solutions across machine learning, computer vi
 | **University Management System** | Java system for users, courses, exams, forums and forms. | [Edu-Hacks](https://github.com/MaramSliti/Edu-Hacks) · private repository |
 | **Business Intelligence – Innovations in Medicine** | Power BI dashboards and healthcare KPIs. | [Public repository](https://github.com/MaramSliti/BUsiness-Intelligence-Project) |
 | **Customer Churn Prediction & MLOps** | Churn prediction pipeline with MLflow, APIs, Docker, Jenkins and monitoring. | [Collaborative repository](https://github.com/MeriemMojaat/mlops) |
-| **AI Candidate Screening Agent** | Collaborative AI-assisted candidate screening application. | [Team repository](https://github.com/yosrcharrada/screening-agent) |
+| **METIS – AI Candidate Screening Agent** | Collaborative AI-assisted candidate screening project. This is the METIS project. | [Team repository](https://github.com/yosrcharrada/screening-agent) |
 | **EY AI Proposal & CV Generator** | Consulting document analysis and generation using React, FastAPI, Ollama, Llama 3 and Mistral. | Internship project; source not public |
 | **PulmoScan** | Deep-learning project for lung-imaging analysis and nodule detection. | Source link to be added |
 | **EmotionAI** | Computer-vision project for facial-expression and emotion classification. | Source link to be added |
