@@ -1,63 +1,43 @@
-<h1 align="center">Hey there 👋 I'm Maram Sliti</h1>
+# Maram Sliti
+**Software Engineer | AI Engineer | Data Scientist | Full-Stack Developer**
 
-<p align="center">
-  🎓 Data Science Student @ Esprit · 🧬 Deep Learning in Healthcare · 💻 Coding my way through life
-</p>
+I build practical software and AI solutions across machine learning, computer vision, generative AI, data engineering, business intelligence, and full-stack development.
 
----
+- Portfolio: https://maram-portfolio-refined.vercel.app
+- LinkedIn: https://www.linkedin.com/in/maram-sliti-451214223
+- Email: maram.sliti@esprit.tn
+- Location: Tunisia
 
-### 🪄 About Me
+## Featured projects
 
-Hi! I'm Maram, a curious and creative Data Science Engineering student from Tunisia 🇹🇳.  
-I’m passionate about using technology to make meaningful impact — especially in healthcare.
+| Project | What I worked on | Repository |
+|---|---|---|
+| **2D Game – Teletrix** | University team project: 2D game development using SDL and C on Linux. | [Team repository](https://github.com/BalkisHajHarrouchi/TELETRIX_GAME) |
+| **Smart Coworking Space Management** | Team project for managing a virtual coworking space. | [Team repository](https://github.com/BalkisHajHarrouchi/Smart_Co-Working_Space_2A31) |
+| **University Management System** | Java application covering users, courses, exams, forums, and forms. | [Repository](https://github.com/MaramSliti/Edu-Hacks) (currently private) |
+| **Business Intelligence – Innovations in Medicine** | Power BI dashboards and healthcare KPIs for operational, financial, and patient-care analysis. | [Repository](https://github.com/MaramSliti/BUsiness-Intelligence-Project) |
+| **Customer Churn & MLOps Pipeline** | Churn prediction workflow with model training, MLflow tracking, FastAPI, Docker, Jenkins, and monitoring. | [Collaborative repository](https://github.com/MeriemMojaat/mlops) |
+| **AI-Powered Candidate Screening** | Collaborative screening-agent application. | [Team repository](https://github.com/yosrcharrada/screening-agent) |
+| **METIS – Jira-connected RAG Assistant** | Professional project involving retrieval-augmented question answering over Jira-related information. | Professional work; source code is not publicly linked. |
+| **PulmoScan** | Deep-learning project for lung-imaging analysis and nodule detection. | Project overview; public source link not yet verified. |
+| **EmotionAI** | Computer-vision project exploring facial-expression / emotion classification. | Public source link not yet verified. |
+| **ChurnPredict** | Customer churn prediction and classification. | See the collaborative MLOps repository above. |
+| **Brain Tumor Classification** | CNN-based classification of brain-tumor image classes. | Public source link not yet verified. |
+| **Agricultural Forecasting** | Time-series forecasting experiments using ARIMA / SARIMA. | Public source link not yet verified. |
+| **EY AI Proposal & CV Generator** | Internship project for consulting-document analysis and generation using React, FastAPI, Ollama, Llama 3, and Mistral. | Professional work; source code is not publicly linked. |
+| **AI Agents Benchmark Board** | Interface for comparing AI agents. | [Repository](https://github.com/MaramSliti/benshmarkey) (currently private) |
 
-Currently, I’m working on **PulmoScan**, a deep learning-based project to detect lung nodules from CT scans. Research, data, and a touch of creativity — that’s my zone. 🤍
+*Some projects were developed in teams or during internships. Repository links point to the original project repositories; professional or private code is not presented as publicly available.*
 
-When I’m not coding, I’m probably:
-- 🏋️‍♀️ Working out (strong mind, strong body)
-- ✨ Journaling or doing yoga
-- 💬 Chatting with friends or soaking in the sun
+## Technical skills
 
----
+- **Languages:** Python, C, C++, Java, JavaScript, SQL, R
+- **AI / ML:** Machine Learning, Deep Learning, CNNs, Computer Vision, NLP, LLMs, RAG, prompt engineering
+- **Frameworks:** React, FastAPI, Flask, Streamlit, TensorFlow, PyTorch, scikit-learn
+- **Data & BI:** Pandas, Power BI, DAX, Tableau, PostgreSQL, MongoDB
+- **MLOps & tools:** Docker, MLflow, Jenkins, Git, GitHub, Linux, Ollama
 
-### 💼 What I'm Working On
+## More
 
-- **🫁 PulmoScan** – Hybrid deep learning model for early detection of lung nodules  
-- **🧠 Brain Tumor Classification** – CNNs for classifying tumor types using MRI images  
-- **📉 Customer Churn ML** – Predictive modeling with Random Forest, SMOTE & GBM  
-- **📊 Data Analysis with R** – Gas distribution project using ggplot2 & Shiny dashboards
-
----
-
-### 🧰 Tech Toolbox
-
-<p>
-  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,html,css,js,java,c,cpp,r,linux,git,github,vscode,jupyter" />
-</p>
-
----
-
-### 📈 GitHub Vibes
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaramSliti&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MaramSliti&theme=tokyonight" />
-</p>
-
----
-
-### 🌟 Let’s Connect
-
-Wanna chat about tech, projects, or just say hi? I’m always up for connecting! 😊
-
-<p>
-  <a href="https://www.linkedin.com/in/YourLinkedInUsername/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  ✨ *Learning. Building. Growing.* ✨
-</p>
+- [GitHub repositories](https://github.com/MaramSliti?tab=repositories)
+- [Portfolio](https://maram-portfolio-refined.vercel.app)
